@@ -1,0 +1,1 @@
+https://velog.io/@dlswns2480/Redis%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%9D%B4%EC%8A%88-%EC%A0%9C%EC%96%B4-Lettuce-vs-Redisson
